@@ -1,0 +1,94 @@
+#selfie {
+    display: block;
+    margin-left: auto;
+    margin-top: auto;
+    width: 65%;
+}
+
+.aboutMe {
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 44px;
+}
+
+#containerBG {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/336/163/715/honeycombs-abstract-minimalism-simple-background-wallpaper-preview.jpg");
+    background-size: cover;
+}
+
+.aboutMeText {
+    margin-left: auto;
+    margin-right:auto ;
+    margin-top: auto;
+    margin-bottom:auto;
+    font-family: cursive;
+    text-align: center;
+    color: white;
+}
+
+/* Nav Bar features */
+header {
+    background: black;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 435px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navlink {
+    position: relative;
+    color: white;
+    text-decoration: none;
+}
+
+/* Background HTML Styling */
+#backgroundbg {
+    background-image: url(https://images.unsplash.com/photo-1553356084-58ef4a67b2a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+    background-size: cover;
+}
+.background {
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 44px;
+
+}
+
+/* interests HTML styling */
+
+#interestsBg {
+    background-image: url(https://images.unsplash.com/photo-1491378630646-3440efa57c3b?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80);
+    background-size: cover;
+}
+.interests {
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 44px;
+
+}
+
+
+/* Home page HTML stying */
+#homePageBg {
+    background-image: url(https://images.unsplash.com/photo-1585263552903-0089d66c5f7d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+    background-size: cover;
+}
+.hpTitle {
+    color: white;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 44px;
+    font-size: 40px;
+}
